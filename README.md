@@ -17,5 +17,5 @@ I also love working with the developer communities on a global scale, building c
 
 🥂 Cheers!
 
-![Profile views](https://gpvc.arturio.dev/DaveyHert)
+<-- ![Profile views](https://gpvc.arturio.dev/DaveyHert) -->
 
