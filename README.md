@@ -4,7 +4,7 @@
 
 A Frontend Software Engineer and Technical Writer who is Passionate about learning, building and solving problems.
 
-I also love working with the developer communities on a global scale, building cool demo's, writing technical articles, speaking at conferences.
+I also love working with the developer communities on a global scale, building cool projects, writing technical articles, speaking at conferences.
 
 * 📝 To give back to the community I publish technical developer-focused content on Hashnode, Dev.to and Medium.
 
